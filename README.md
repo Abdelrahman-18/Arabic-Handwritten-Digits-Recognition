@@ -113,7 +113,4 @@ The trained model is deployed using **Flask**.
 
 This allows easy interaction with the trained model without running code manually.
 
----
-
-## 🗂 Project Structure
 
