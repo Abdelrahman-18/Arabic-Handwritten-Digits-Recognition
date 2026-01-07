@@ -23,7 +23,7 @@ The system:
 
 | Step | Description |
 |------|------------|
-| 0 | Configuration → Set project name, data paths, image settings |
+| 0 | Configuration → Set data paths and image settings |
 | 1 | Image Loading → Load and preprocess images |
 | 2 | Feature Extraction → HOG, LBP, and color-based features |
 | 3 | Dataset Split → Train / Validation / Test with scaling |
